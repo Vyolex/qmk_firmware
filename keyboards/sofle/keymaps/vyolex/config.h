@@ -7,3 +7,4 @@ for more options.
 
 // #define MASTER_RIGHT
 #define MASTER_LEFT
+#define OLED_FONT_H "keyboards/sofle/keymaps/vyolex/glcdfont.c"
